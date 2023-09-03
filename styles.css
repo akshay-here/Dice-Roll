@@ -1,0 +1,34 @@
+html {
+    background-color: #364240;
+}
+
+.title {
+    text-align: center;
+    color: #68f7df;
+    font-size: 5rem;
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 10rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.player {
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: #68f7df;
+}
+
+body footer {
+    text-align: center;
+    color: #68f7df;
+    font-size: 2rem;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
